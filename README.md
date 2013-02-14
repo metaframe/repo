@@ -1,4 +1,1 @@
-repo
-====
-
-Metaframe Maven Repository
+Maven Repository of Metaframe

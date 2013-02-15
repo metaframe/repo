@@ -24,7 +24,7 @@ span {
 <h2>It Works!</h2>
 
 <p>
-This is Metaframe Maven Repository!
+Welcome to Metaframe Maven Repository!
 </p>
 
 <h2>
